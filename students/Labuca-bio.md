@@ -1,0 +1,4 @@
+-  4th Year / G8
+- Favorite Language: C++
+- One Git Tip Learned:Use `git status` often
+- GitHub: @ryco21
